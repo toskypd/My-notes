@@ -1,0 +1,31 @@
+
+ body {
+            background-image: url('bg.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            opacity: 3;
+        }
+
+        .card-body{
+            background-color: rgb(54, 138, 86);
+        }
+        
+        .row container-fluid{
+            background-color: coral;
+        }
+
+        #addBtn{
+            background-color: darkgreen;
+        }
+
+        .btn{
+            background-color: rgb(94, 33, 33);
+        }
+        .card-text{
+            color: rgb(57, 95, 32)
+        }
+
+        #notes{
+            background-color: brown;
+        }
