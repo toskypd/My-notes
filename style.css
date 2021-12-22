@@ -29,3 +29,15 @@
         #notes{
             background-color: brown;
         }
+
+        .form-control{
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .card-text{
+            font-size: 22px;
+            font-weight: bold;
+            font-style: italic;
+        }
+
